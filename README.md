@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Current OSes: Ubuntu (ThinkPad T490s), MacOS Sequoia (MacBook Pro M1)
+Past OSes: Arch (ThinkPad T490s)
+
 <!--
 **danz-the-penguin/danz-the-penguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

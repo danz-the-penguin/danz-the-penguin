@@ -11,7 +11,7 @@ Past Operating Systems:
 
 Text-Editors:
 
-- **NeoVim** 
+- **NeoVim** [based on this](https://github.com/josean-dev/dev-environment-files) by [Josean Martinez](https://github.com/josean-dev/dev-environment-files).
 <!--
 **danz-the-penguin/danz-the-penguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

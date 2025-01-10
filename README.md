@@ -7,7 +7,7 @@ Main Operating Systems I'm currently running:
 
 Other Operating Systems I'm running:
 
-- **Windows** (ThinkPad T490s): For dual-booting Ubuntu
+- **Windows** (ThinkPad T490s): For dual-booting Linux OSes
 
 Past Operating Systems:
 

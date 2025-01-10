@@ -1,9 +1,13 @@
 ## Hi there 👋
 
-Operating Systems I'm currently running: 
+Main Operating Systems I'm currently running: 
 
 - **Ubuntu** (ThinkPad T490s): For development 
 - **MacOS Sequoia** (MacBook Pro M1): For development
+
+Other Operating Systems I'm running:
+
+- **Windows** (ThinkPad T490s): For dual-booting Ubuntu
 
 Past Operating Systems:
 

@@ -2,7 +2,7 @@
 
 Main Operating Systems I'm currently running: 
 
-- **Ubuntu** (ThinkPad T490s): For development 
+- **Pop_OS** (ThinkPad T490s): For development 
 - **MacOS Sequoia** (MacBook Pro M1): For development
 
 Other Operating Systems I'm running:
@@ -12,6 +12,7 @@ Other Operating Systems I'm running:
 Past Operating Systems:
 
 - **Arch** (ThinkPad T490s)
+- **Ubuntu** (ThinkPad T490s)
 
 Text-Editors:
 

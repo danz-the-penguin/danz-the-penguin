@@ -1,3 +1,15 @@
+ ██████╗ ███████╗███╗   ███╗██╗███╗   ██╗██╗    ██╗███████╗    ███╗   ███╗██╗   ██╗     ██████╗  ██████╗  █████╗ ████████╗
+██╔════╝ ██╔════╝████╗ ████║██║████╗  ██║██║    ██║██╔════╝    ████╗ ████║╚██╗ ██╔╝    ██╔════╝ ██╔═══██╗██╔══██╗╚══██╔══╝
+██║  ███╗█████╗  ██╔████╔██║██║██╔██╗ ██║██║    ██║███████╗    ██╔████╔██║ ╚████╔╝     ██║  ███╗██║   ██║███████║   ██║   
+██║   ██║██╔══╝  ██║╚██╔╝██║██║██║╚██╗██║██║    ██║╚════██║    ██║╚██╔╝██║  ╚██╔╝      ██║   ██║██║   ██║██╔══██║   ██║   
+╚██████╔╝███████╗██║ ╚═╝ ██║██║██║ ╚████║██║    ██║███████║    ██║ ╚═╝ ██║   ██║       ╚██████╔╝╚██████╔╝██║  ██║   ██║   
+ ╚═════╝ ╚══════╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝    ╚═╝╚══════╝    ╚═╝     ╚═╝   ╚═╝        ╚═════╝  ╚═════╝ ╚═╝  ╚═╝   ╚═╝   
+                                                                                                                          
+                                                                                                                          
+I LOVE GEMINI AND MAKING RANDOM PROJECTS
+
+
+<!--
 ## Hi there 👋
 
 Main Operating Systems I'm currently running: 
@@ -17,7 +29,7 @@ Past Operating Systems:
 Text-Editors:
 
 - **NeoVim** [based on this](https://github.com/josean-dev/dev-environment-files) by [Josean Martinez](https://github.com/josean-dev).
-<!--
+
 **danz-the-penguin/danz-the-penguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
